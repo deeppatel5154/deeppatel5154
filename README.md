@@ -87,6 +87,16 @@ Built an ML-powered object detection system for medical image analysis.
 
 ---
 
+### 🏠 [Airbnb Sentiment Reviews — Classification & Prediction](https://github.com/deeppatel5154/airbnb-sentiment-analysis)
+> Python • NLTK • TF-IDF • SMOTE • Random Forest • LightGBM
+
+Applied data mining techniques (tokenization, stemming, TF-IDF, clustering) to classify 13,000+ Airbnb reviews as positive, neutral, or negative, benchmarking sentiment models for interpretability and accuracy.
+
+- ✅ Random Forest achieved **99.78% testing accuracy**
+- ✅ LightGBM achieved **99.59% testing accuracy**
+
+---
+
 ## 📊 Work Highlights
 
 | Company | Role | Impact |
