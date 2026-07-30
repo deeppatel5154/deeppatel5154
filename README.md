@@ -19,7 +19,7 @@ Building ETL pipelines, BI dashboards, and statistical models that turn fragment
 
 ### 🧭 About Me
 
-Data Analyst with **4+ years** building ETL pipelines, BI dashboards, and statistical reporting across enterprise environments in India and the UK. I consolidate fragmented data systems, cut manual processing time, and translate findings into decisions senior stakeholders actually act on.
+Data Analyst with **2+ years** building ETL pipelines, BI dashboards, and statistical reporting across enterprise environments in India and the UK. I consolidate fragmented data systems, cut manual processing time, and translate findings into decisions senior stakeholders actually act on.
 
 Currently pursuing an **M.S. in Data Science at Saint Peter's University, NJ (Expected 2027)**.
 
